@@ -1,28 +1,28 @@
-Variable
-declare:
+# Variable #
+* declare :
 >>> s = 5
 
-String
-declare:
+# String #
+* declare:
 >>> sa = 'lala'
-use:
+* use:
 >>> sa + sa
 >>> sa * s
 >>> len(sa)
 
-List
-declare:
+# List #
+* declare:
 >>> sam = [3 , 5, 6, 7]
-use:
+* use:
 >>> len(sam)
 
-Dict
-an array with key and value
+# Dict #
+* an array with key and value
 declare:
 >>> lol = {'a' : 'first alphabet', 'b' : 'second alphabet'}
-use:
+* use:
 >>> lol['a']
 >>> len(lol)
 >>> del lol['a']
 
-Compare
+# Compare #
